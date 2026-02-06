@@ -1,4 +1,4 @@
-# Day 2 – Arrays
+# Day 3 – Arrays
 
 ## Problem 1: Rotate Array by One (Simple 2 Pointers)
 
@@ -59,3 +59,4 @@ class Solution {
     }
 }
 ```
+
